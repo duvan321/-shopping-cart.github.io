@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/-shopping-cart.github.io/static/css/main.44f8b8b5.css",
+    "main.js": "/-shopping-cart.github.io/static/js/main.7c0b3016.js",
+    "static/js/787.07b52f2f.chunk.js": "/-shopping-cart.github.io/static/js/787.07b52f2f.chunk.js",
+    "static/media/orange.png": "/-shopping-cart.github.io/static/media/orange.c0f3be88d8462660310e.png",
+    "static/media/grapes.png": "/-shopping-cart.github.io/static/media/grapes.f6aa4ed39d8240398fff.png",
+    "static/media/strawberries.png": "/-shopping-cart.github.io/static/media/strawberries.6a45dbac34217522411d.png",
+    "index.html": "/-shopping-cart.github.io/index.html",
+    "main.44f8b8b5.css.map": "/-shopping-cart.github.io/static/css/main.44f8b8b5.css.map",
+    "main.7c0b3016.js.map": "/-shopping-cart.github.io/static/js/main.7c0b3016.js.map",
+    "787.07b52f2f.chunk.js.map": "/-shopping-cart.github.io/static/js/787.07b52f2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.7c0b3016.js"
+  ]
+}
